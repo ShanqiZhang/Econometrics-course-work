@@ -1,6 +1,6 @@
 This is a coursework done in ECON3300 Econometrics in 2022 Fall.
 
-The do file is the complete record of codes
+The do file is the complete record of codes, which conducted a simple panel data cleaning and fixed effect regression.
 
 The finaldata is cleaned data used for the final regression. It is cleaned by the do file.
 
