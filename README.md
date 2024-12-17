@@ -6,4 +6,4 @@ The finaldata is cleaned data used for the final regression. It is cleaned by th
 
 Raw data are also attached so replication of the code running is viable.
 
-For further questions, please emial shanqizhangx@gmail.com
+For further questions, please email shanqizhangx@gmail.com
