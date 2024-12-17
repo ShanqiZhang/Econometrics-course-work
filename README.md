@@ -1,4 +1,4 @@
-This is a coursework done in ECON3300 economitrics in 2022 Fall.
+This is a coursework done in ECON3300 Econometrics in 2022 Fall.
 
 The do file is the complete record of codes
 
